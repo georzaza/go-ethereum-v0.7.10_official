@@ -33,6 +33,8 @@ a.function {
 
 <body>
 
+<br>
+
 ## go-ethereum v0.7.10 - `core` Module - Source Code Analysis
 In this project I dive into the core module of the official go-ethereumv0.7.10 and try  
 to give a thorough explanation on all code that's included in this module.
@@ -44,6 +46,9 @@ Any inner links in this file point just below the definition/signature of
 a data structure/function. Remember to scroll up just a bit after clicking  
 on a link.  
 
+If you are interested in analyzing any of the other modules you might find useful  
+the folder `georzaza_scripts` and/or the file `georzaza_output`, which examine file  
+similarity across all modules of this go-ethereum version.
 
 <br><br>
 
