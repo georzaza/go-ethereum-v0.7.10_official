@@ -33,13 +33,16 @@ a.function {
 
 <body>
 
-# # go-ethereum v0.7.10 - `core` Module - Source Code Analysis
+## go-ethereum v0.7.10 - `core` Module - Source Code Analysis
 In this project I dive into the core module of the official go-ethereumv0.7.10 and try  
 to give a thorough explanation on all code that's included in this module.
 
-Note: Any inner links in this file point just below the definition/signature of  
-	a data structure/function. Remember to scroll up just a bit after clicking 
-	on a link.  
+The code can also be explored through:  
+https://pkg.go.dev/github.com/georzaza/go-ethereum-v0.7.10_official
+
+Any inner links in this file point just below the definition/signature of  
+a data structure/function. Remember to scroll up just a bit after clicking  
+on a link.  
 
 
 <br><br>
