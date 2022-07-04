@@ -42,9 +42,9 @@ to give a thorough explanation on all code that's included in this module.
 The code can alternatively be explored through:  
 https://pkg.go.dev/github.com/georzaza/go-ethereum-v0.7.10_official  
 
-Please note that both this repository and the above link contain the official code   
-along with <b>comments that I've written on in order to help myself get through  
-with this project</b>. The original codebase contained very-very limited comment sections. 
+Please note that both this repository and the above link contain the official code  
+along with <b>comments that I've written in order to help myself get through with  
+this project</b>. The original codebase contained very-very limited comment sections. 
 
 Any inner links in this file point just below the definition/signature of  
 a data structure/function. Remember to scroll up just a bit after clicking  
