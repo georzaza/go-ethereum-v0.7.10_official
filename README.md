@@ -39,8 +39,10 @@ a.function {
 In this project I dive into the core module of the official go-ethereumv0.7.10 and try  
 to give a thorough explanation on all code that's included in this module.
 
-The code can also be explored through:  
-https://pkg.go.dev/github.com/georzaza/go-ethereum-v0.7.10_official
+The code can alternatively be explored through:  
+https://pkg.go.dev/github.com/georzaza/go-ethereum-v0.7.10_official  
+The above link contains the official code along with comments that I've written on  
+in order to help myself get through with this project.
 
 Any inner links in this file point just below the definition/signature of  
 a data structure/function. Remember to scroll up just a bit after clicking  
