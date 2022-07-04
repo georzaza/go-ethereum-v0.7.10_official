@@ -49,7 +49,7 @@ a data structure/function. Remember to scroll up just a bit after clicking
 on a link.  
 
 If you are interested in analyzing any of the other modules you might find useful  
-the folder `georzaza_scripts` and/or the file `georzaza_output`, which examine file  
+the folder `georzaza_scripts` and/or the file `georzaza_output`, which examine files'  
 similarity across all modules of this go-ethereum version.
 
 <br><br>
